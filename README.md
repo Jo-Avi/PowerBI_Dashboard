@@ -38,7 +38,8 @@ This project analyzes sales performance using Power BI. It provides insights int
 
 🔷 Dashboard Preview
 
-<img width="1920" height="1080" alt="Dashboard_Preview" src="https://github.com/user-attachments/assets/b7ce058b-a443-4690-b050-877937e1e2a1" />
+<img width="1920" height="1028" alt="Dashboard_Preview" src="https://github.com/user-attachments/assets/a5aa3044-3848-4f37-9388-16f9268e79d7" />
+
 
 
 🔷 How to Use
