@@ -36,6 +36,11 @@ This project analyzes sales performance using Power BI. It provides insights int
 * Found high sales but low profit categories
 * Analyzed customer payment preferences
 
+🔷 Dashboard Preview
+
+<img width="1920" height="1080" alt="Dashboard_Preview" src="https://github.com/user-attachments/assets/b7ce058b-a443-4690-b050-877937e1e2a1" />
+
+
 🔷 How to Use
 
 1. Download the `.pbix` file
